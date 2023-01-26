@@ -31,7 +31,7 @@ map.html
 <font color="red"><b>Ariyalur - Cement City</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>vishvajith (22008593)</b></font>
+<font color="blue"><b>SRI RANJANI PRIYA (22008008)</b></font>
 </h3>
 <center>
 <img src="/static/image/map.png" usemap="#MyCity" height="420" width="1100">
