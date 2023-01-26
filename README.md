@@ -208,18 +208,17 @@ Simple and relax with play area.
 ```
 
 ## Output:
-![output](map.png)
-![output](output.png)
-![output](output1.png)
-![output](output2.png)
-![output](output3.png)
-![output](output4.png)
-![output](output5.png)
+![output](srimap.png)
+![output](sripark.png)
+![output](sribus.png)
+![output](srighs.png)
+![output](srirto.png)
+![output](srivks.png)
 
 
 
-## HTML Validator:
-![output](output%20valid.png)
+
+
 
 
 
