@@ -208,12 +208,12 @@ Simple and relax with play area.
 ```
 
 ## Output:
-![output](srimap.png)
-![output](sripark.png)
-![output](sribus.png)
-![output](srighs.png)
-![output](srirto.png)
-![output](srivks.png)
+![output](sri%20map.png)
+![output](sri%20park.png)
+![output](sri%20bus.png)
+![output](sri%20ghs.png)
+![output](sri%20rto.png)
+![output](sri%20vks.png)
 
 
 
