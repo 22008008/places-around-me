@@ -210,7 +210,7 @@ Simple and relax with play area.
 ## Output:
 ![output](sri%20map.png)
 ![output](sri%20park.png)
-![output](sri%20bus.png)
+![output](sribus.png)
 ![output](sri%20ghs.png)
 ![output](sri%20rto.png)
 ![output](sri%20vks.png)
